@@ -4,3 +4,5 @@ Listen to your favorite music, wherever they are! ZippyShare, last.fm, SoundClou
 
 Összehozza kedvenc zenéidet!
 Hallgasd kedvenc zenéidet, legyenek azok bárhol! ZippyShare, last.fm, SoundCloud, Youtube, Spotify és még több oldal támogatásával!
+
+Built with [NW.js](http://nwjs.io/).
